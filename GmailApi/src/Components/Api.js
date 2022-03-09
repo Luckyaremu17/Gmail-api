@@ -1,6 +1,6 @@
 export const Api = {
-    CLIENT_ID: "478645851778-ibp2d5uhdbh1fura5d8l056bvu93il1o.apps.googleusercontent.com",
-    API_KEY: "AIzaSyC-MdNkAWKHauZ4mZNfMr9J6uYdkEChRno",
+    CLIENT_ID: "",
+    API_KEY: "",
     SCOPES: "https://mail.google.com/"
   };
   
